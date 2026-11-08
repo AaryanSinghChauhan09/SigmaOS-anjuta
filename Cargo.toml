@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-anjuta"
+name = "sigmaos_anjuta"
 version = "0.1.0"
 edition = "2021"
-license = "Apache-2.0"
-description = "SigmaOS component - part of multi-repository architecture"
+license = "MIT"
+description = "SigmaOS anjuta component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "anjuta"
+name = "sigmaos_anjuta"
 path = "src/lib.rs"
